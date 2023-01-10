@@ -82,3 +82,4 @@ void sendToEmail(BreachType breachType) {
   printf("To: %s\n", recepient);
   MailBreachType(breachType);
 }
+
