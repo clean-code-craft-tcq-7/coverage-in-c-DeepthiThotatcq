@@ -73,6 +73,7 @@ static void MailBreachType(BreachType breachType)
   }
   else
   {
+    // NORMAL
   }
 }
 
