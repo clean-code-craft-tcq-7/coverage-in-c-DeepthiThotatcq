@@ -65,15 +65,14 @@ static void MailBreachType(BreachType breachType)
   
   if (breachType == BreachType_enum)
   {
-      printf("Hi, the temperature is too low\n");
+      printf("The temperature is low\n");
   }
   else if (breachType == BreachType_enum)
   {
-      printf("Hi, the temperature is too high\n");
+      printf("The temperature is High\n");
   }
   else
   {
-    // NORMAL
   }
 }
 
