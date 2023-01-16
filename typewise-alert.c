@@ -1,5 +1,5 @@
 #include "typewise-alert.h"
-#include <stdio.h>
+#include <stdio.h
 
 static coolingLimitType TypesOfLimitCooling(CoolingType coolingType);
 static void MailBreachType(BreachType breachType);
